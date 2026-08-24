@@ -1,57 +1,62 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3a0ca3&customColorEnd=7209b7&height=200&section=header&text=MEET&fontSize=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3a0ca3&customColorEnd=7209b7&height=200&section=header&text=KULMEET&fontSize=50&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Distributed+Systems+Architect;AI+/+ML+Platform+Engineer;Full+Stack+Product+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Software+Engineer;Generative+AI+%26+RAG+Developer;Full-Stack+Developer;AI+Agent+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/MS%20in%20Computer%20Science-Georgia%20Tech-7B2CBF?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-5A189A?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-website-9D4EDD?style=flat-square&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech%20Computer%20Science-7B2CBF?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Specialization-AI%20%2F%20ML-5A189A?style=flat-square&logo=academia&logoColor=white" alt="Specialization Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-9D4EDD?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Bunny1089"><img src="https://img.shields.io/badge/GitHub-profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=username&color=9D4EDD&style=flat-square&label=Profile%20Views" alt="Profile Views" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/github/followers/username?style=flat-square&color=7B2CBF&label=Followers" alt="Followers" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/github/stars/username?style=flat-square&color=7B2CBF&label=Stars" alt="Stars" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=Bunny1089&color=9D4EDD&style=flat-square&label=Profile%20Views" alt="Profile Views" /></a>
+  <a href="https://github.com/Bunny1089"><img src="https://img.shields.io/github/followers/Bunny1089?style=flat-square&color=7B2CBF&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/Bunny1089"><img src="https://img.shields.io/github/stars/Bunny1089?style=flat-square&color=7B2CBF&label=Stars" alt="Stars" /></a>
 </p>
 
 ---
 
 ## 2. About Me
 
-I am a Senior Software Engineer specializing in high-performance distributed systems, AI/ML training and inference infrastructure, and scalable full-stack applications. With a product engineering mindset, I bridge the gap between complex backend infrastructure and intuitive user experiences. I thrive on designing robust solutions that handle millions of requests, optimizing GPU utilization, and contributing to open-source software.
+I am a B.Tech Computer Science & Engineering student specializing in AI/ML. My focus is on building practical AI-powered applications, intelligent software systems, and full-stack products. I blend software engineering principles with state-of-the-art machine learning techniques to solve real-world problems.
 
-*   **Software Engineering:** Expert in microservices, low-latency APIs, and concurrent system designs.
-*   **AI/ML Expertise:** Specialized in pipeline parallelism, LLM fine-tuning pipelines, and vector databases.
-*   **Full Stack Development:** Experienced in building responsive, modern user interfaces integrated with resilient backend APIs.
-*   **Product Mindset:** Focused on delivering measurable business impact, optimizing cost, and ensuring excellent user experience.
+*   **Artificial Intelligence & Machine Learning:** Focused on practical application design, deep learning pipelines, and model evaluation.
+*   **Generative AI & RAG:** Passionate about building context-aware retrieval systems and AI agent workflows.
+*   **Full-Stack & Product Engineering:** Experienced in building responsive interfaces with React, FastAPI, and robust data schemas.
+*   **Software Engineering Core:** Solid foundations in DSA, database design, system flows, and modular programming.
 
 ### Open To
-*   Technical leadership roles and architecture advisory.
-*   Collaborations on open-source distributed training frameworks and ML developer tools.
-*   System optimization and scalability consulting.
+*   AI / ML internships
+*   Software Engineering internships
+*   Generative AI / AI Agent opportunities
+*   Full-Stack Development opportunities
+*   Applied AI projects
+*   Research collaborations
+*   Hackathons
+*   Open-source collaboration
 
 ---
 
 ## 3. Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,golang,rust,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,mysql)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,vite,figma)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,sqlite,mongodb,postgres)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux)](https://skillicons.dev)
+[![Cloud & DevOps](https://skillicons.dev/icons?i=git,github,docker,linux,gcp,vscode,postman,pytorch,tensorflow,opencv)](https://skillicons.dev)
 
 ---
 
@@ -59,78 +64,102 @@ I am a Senior Software Engineer specializing in high-performance distributed sys
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Deep Learning Infrastructure** | Expert | PyTorch, Megatron-LM, DeepSpeed, Ray, GPU cluster orchestration, CUDA kernel tuning |
-| **NLP & Large Language Models** | Advanced | Fine-tuning (LoRA, QLoRA), Reinforcement Learning (RLHF/DPO), RAG architectures |
-| **Computer Vision** | Advanced | Object detection (YOLO), image segmentation, OpenCV, multi-modal feature embedding |
-| **MLOps & Inference Platforms** | Expert | Triton Inference Server, vLLM, TensorRT, Kubeflow, Prometheus, Grafana |
+| **Machine Learning** | Intermediate | Regression, classification, clustering, evaluation metrics, tabular datasets with scikit-learn |
+| **Deep Learning** | Intermediate | Neural network architectures, backpropagation, basic training pipelines in PyTorch |
+| **Generative AI** | Advanced | Prompt engineering, API integration, multi-modal workflows |
+| **RAG** | Advanced | PDF document parsing, vector indexing, query pipelines |
+| **AI Agents** | Advanced | Custom agent workflows, tool calling implementations, multi-agent coordination |
+| **Computer Vision** | Intermediate | Face/object tracking, hand gesture recognition, landmark extraction via MediaPipe/OpenCV |
+| **NLP** | Intermediate | Text preprocessing, word embeddings, transformer tokenization |
+| **MLOps / AI Deployment** | Intermediate | Local deployment with Docker, lightweight API hosting with FastAPI, workflow automation with n8n |
 
 ---
 
 ## 5. Featured Projects
 
 <details>
-<summary><b>🚀 AetherDB — Distributed Serverless Vector Database</b></summary>
+<summary><b>🚀 GestureDrive AI — Hand Gesture System Input Control</b></summary>
 
-### AetherDB
-A high-throughput, low-latency serverless vector database designed specifically for real-time semantic search and high-dimensional embeddings.
+### GestureDrive AI
+A modular computer vision framework that converts real-time webcam hand gestures into game and system inputs.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, Rust, gRPC, Kubernetes, RAFT | 50B+ Vectors, multi-region | <5ms latency at 99th percentile | TLS 1.3, OAuth2, RBAC | Powering semantic search for 10M+ DAUs | [aether-db](https://github.com/username/aether-db) |
+| Python, OpenCV, MediaPipe, NumPy | Real-time single camera | 30 FPS inference on CPU | Local execution (zero network transmission) | Seamless touchless system control | [gesture-drive-ai](https://github.com/Bunny1089/GestureDrive-AI) |
 
 #### Professional Project Explanation
-AetherDB was built to solve the memory and indexing bottlenecks of high-dimensional vector search. The core vector indexing search engine is built in Rust utilizing custom HNSW algorithms, while the orchestration and distributed replication layers are written in Go. Raft consensus ensures consistent and partition-tolerant cluster coordination. Implemented dynamic vector quantization and memory-mapped files to optimize memory consumption, reducing infrastructure costs by 50%.
+GestureDrive AI is built as a highly modular pipeline that separates hand tracking, gesture inference, visualization, controller abstraction, and data utilities. The system captures webcam video frames, extracts keypoint coordinates using MediaPipe, and processes transitions using temporal state machines. Configured to map specific hand landmarks to keyboard inputs and virtual Xbox controllers for interactive environments.
 </details>
 
 <details>
-<summary><b>🧠 NeuralMesh — Distributed LLM Orchestration Platform</b></summary>
+<summary><b>🧠 NexusOS AI — Multi-Agent Academic & Career Scheduler</b></summary>
 
-### NeuralMesh
-A cloud-native orchestration platform designed to streamline large-scale model training and inference workloads across heterogeneous GPU clusters.
+### NexusOS AI
+An AI-powered multi-agent system designed to coordinate academic planning, career development, interview preparation, internships, and personal scheduling.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, PyTorch, Ray, Docker, Slurm | 1000+ GPU nodes, 175B model | 92% GPU utilization efficiency | End-to-end data encryption, VPC | Reduced model training cost by 40% | [neural-mesh](https://github.com/username/neural-mesh) |
+| Google ADK, MCP, FastAPI, React, SQLite, Docker | Multi-agent coordinate mesh | Sub-second local tool execution | Sandboxed Docker environments, local storage | Streamlined academic/career planning | [nexus-os-ai](https://github.com/Bunny1089/NexusOS-AI) |
 
 #### Professional Project Explanation
-NeuralMesh abstracts cluster-level GPU complexities for machine learning teams. Built on top of Ray and Kubernetes, it automatically partitions models using pipeline, tensor, and data parallelism. By incorporating predictive scheduling algorithms, it dynamically detects and routes around failing compute nodes, ensuring uninterrupted, long-running training jobs. Optimized networking throughput with custom NCCL communication topologies over InfiniBand fabrics.
+NexusOS AI coordinates several specialized agents (Planner, Resume, Career, Study, Interview, Internship, and Life Scheduler) under a single Coordinator Agent. Using the Model Context Protocol (MCP), the agents connect to external calendar events, documents, web searches, and GitHub repositories. The system enables automated task breakdown and document drafting based on real-time schedule updates.
 </details>
 
 <details>
-<summary><b>⚡ VortexPay — Ultra-Low Latency Payment Gateway</b></summary>
+<summary><b>⚡ ResearchLens AI — Document Compilation & Parsing Pipeline</b></summary>
 
-### VortexPay
-A high-frequency transactional gateway designed for microtransactions, processing thousands of requests per second with sub-millisecond persistence.
+### ResearchLens AI
+An automated compilation and parsing pipeline designed to structure technical study handbooks and research materials into indexed, print-ready documents.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| C++, Rust, PostgreSQL, Redis, Kafka | 10,000+ RPS, $100M+ Volume | Sub-10ms end-to-end latency | PCI-DSS compliant, HSM integration | 99.999% uptime, zero financial leakage | [vortex-pay](https://github.com/username/vortex-pay) |
+| Python, FPDF, Markdown, Git | Multiple multi-chapter handbooks | Compiles 100+ pages under 2s | Offline execution, secure local parsing | Standardizes technical curriculum deployment | [handbook](https://github.com/Bunny1089/handbook) |
 
 #### Professional Project Explanation
-VortexPay leverages C++ for its main execution pipeline and Rust for its critical external-facing validation modules to guarantee performance without sacrificing memory safety. It maintains a transactional ledger with high durability using a custom log-structured write-ahead log (WAL). Employs memory-mapped databases and lock-free rings to achieve high throughput, handling peaks of up to 15,000 requests per second under heavy loads.
+ResearchLens AI acts as a dedicated document compiler and structural analyzer for technical education material. By utilizing a customized Python script and FPDF, it parses markdown source files and compiles them into typographically consistent PDFs complete with dynamic tables of contents, page numbers, and custom callouts. It enforces consistent styling rules and color tokens across all built documents.
 </details>
 
 ---
 
 ## 6. Professional Experience
 
-### **Staff Software Engineer / Tech Lead** | **Meta**
-*August 2023 - Present*
-*   **Description:** Lead the architecture team designing infrastructure for next-generation generative AI features across consumer applications.
+### **Full-Stack Developer Intern** | **Radha Krishna Websolution**
+*   **Description:** Developed and optimized dynamic web applications integrating front-end user experiences with back-end database schemas.
 *   **Scope of Work:**
-    *   Designed and deployed a distributed caching system for model weights, reducing start-up times for inference pods by 65%.
-    *   Architected a cross-region data replication pipeline processing multi-terabyte datasets daily with zero loss.
-    *   Mentored senior engineers, defined long-term technical roadmaps, and established rigorous code review standards.
-*   **Skills:** `Distributed Systems` `PyTorch` `C++` `Kubernetes` `System Design`
+    *   Developed responsive landing pages and interfaces utilizing HTML, CSS, JavaScript, and Bootstrap.
+    *   Designed and connected database models utilizing SQL queries for efficient data storage and retrieval.
+    *   Debugged and optimized API routes for performance and security.
+*   **Skills:** `HTML` `CSS` `JavaScript` `SQL` `Web Development`
 
-### **Senior Software Engineer** | **Google**
-*June 2020 - August 2023*
-*   **Description:** Developed key features and optimization engines for core search backend indexing services.
+### **Content Writer & SEO Intern** | **BrandVeda**
+*   **Description:** Researched, drafted, and optimized content targeting search engine rankings and developer engagement.
 *   **Scope of Work:**
-    *   Led the refactoring of legacy indexing pipelines, increasing index construction throughput by 30% using Go.
-    *   Designed real-time health-checks and anomaly detection telemetry suites, preventing critical downstream indexing delays.
-    *   Collaborated closely with machine learning researchers to deploy custom retrieval models into live serving environments.
-*   **Skills:** `Go` `C++` `TensorFlow` `GCP` `Microservices`
+    *   Wrote high-quality articles on digital marketing, web analytics, and technical topics.
+    *   Conducted keyword research and implemented on-page SEO strategies to drive organic web traffic.
+    *   Analyzed article metrics to iterate on content formatting and clarity.
+*   **Skills:** `SEO` `Content Writing` `Digital Marketing` `Web Analytics`
+
+### **UI/UX Design Intern** | **CodSoft**
+*   **Description:** Designed intuitive user interfaces and user experiences for mobile and web applications.
+*   **Scope of Work:**
+    *   Created wireframes, user flows, and interactive mockups using Figma.
+    *   Conducted user research to gather feedback and refine visual hierarchies.
+    *   Collaborated with developers to ensure design implementations matched high-fidelity prototypes.
+*   **Skills:** `Figma` `UI/UX Design` `Wireframing` `User Experience`
+
+### **Creative Designer & 3D Animator** | **Simplifi Nest** & **Preyan Mehta Labs**
+*   **Description:** Conceptualized and built 3D animations and digital designs for promotional media and product showcases.
+*   **Scope of Work:**
+    *   Designed assets and rendered 3D animation scenes with detailed textures and lighting environments.
+    *   Produced creative graphics aligned with brand guidelines and project requirements.
+*   **Skills:** `3D Animation` `Creative Design` `Rendering` `Digital Art`
+
+### **AI/ML Project Developer** | **Academic & Independent Projects**
+*   **Description:** Designed and implemented computer vision models and agentic workflow prototypes.
+*   **Scope of Work:**
+    *   Built GestureDrive AI, a modular hand-tracking control system using OpenCV and MediaPipe.
+    *   Developed NexusOS AI, an academic scheduler coordination framework utilizing Google ADK and MCP.
+*   **Skills:** `Python` `OpenCV` `MediaPipe` `AI Agents` `MCP`
 
 ---
 
@@ -146,16 +175,20 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
     </thead>
     <tbody>
       <tr>
-        <td>🏆 **FAANG Engineering Excellence Award**</td>
-        <td>Recognized for optimizing core service latency, reducing global system resource footprint by 20%.</td>
+        <td>🏆 **Participant / Nominee**</td>
+        <td>Smart India Hackathon 2025 (AI/ML track focus)</td>
       </tr>
       <tr>
-        <td>🌟 **Open Source Contributor of the Year**</td>
-        <td>Acknowledged for significant contributions to PyTorch compiler frontends and distributed training packages.</td>
+        <td>🥇 **Hack Better Than Me**</td>
+        <td>Participated and competed in the hackathon organized by IIIT Pune.</td>
       </tr>
       <tr>
-        <td>🥇 **1st Place — Global AI Hackathon**</td>
-        <td>Developed a prototype multi-agent code refactoring tool capable of automated modular conversions.</td>
+        <td>🌟 **AI/ML Project Development**</td>
+        <td>Designed and deployed modular computer vision and multi-agent systems locally.</td>
+      </tr>
+      <tr>
+        <td>🎓 **Google/Kaggle AI Agents Capstone**</td>
+        <td>Completed hands-on capstone project constructing functional AI agents using Google technologies.</td>
       </tr>
     </tbody>
   </table>
@@ -165,26 +198,16 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
 
 ## 8. Certifications
 
-### AWS
+### Google AI
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-480CA8?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SA Pro" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-Security%20Specialty-560BAD?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Security" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google%20AI-Course%20Completion-3F37C9?style=flat-square&logo=google&logoColor=white" alt="Google AI" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Generative%20AI-RAG%20Specialization-480CA8?style=flat-square&logo=google&logoColor=white" alt="RAG" /></a>
 </p>
 
-### Oracle
+### Kaggle
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Oracle-Java%20SE%2011%20Professional-7209B7?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java SE 11" /></a>
-</p>
-
-### NPTEL
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20(Elite%2BGold)-3F37C9?style=flat-square&logo=education&logoColor=white" alt="NPTEL Cloud Computing" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NPTEL-Advanced%20Algorithms-4361EE?style=flat-square&logo=education&logoColor=white" alt="NPTEL Advanced Algorithms" /></a>
-</p>
-
-### Cisco
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Cisco-CCNA-4CC9F0?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kaggle-5--Day%20AI%20Agents%20Course-560BAD?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle AI Agents" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kaggle-AI%20Agents%20Capstone%20with%20Google-7209B7?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Capstone" /></a>
 </p>
 
 ---
@@ -192,10 +215,7 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
 ## 9. Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/username"><img src="https://img.shields.io/badge/LeetCode-Profile-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org/user/username"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-5A189A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://hackerrank.com/username"><img src="https://img.shields.io/badge/HackerRank-Profile-9D4EDD?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codechef.com/users/username"><img src="https://img.shields.io/badge/CodeChef-Profile-E0AAFF?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef" /></a>
+  <a href="https://leetcode.com/u/Bunny1089/"><img src="https://img.shields.io/badge/LeetCode-Profile-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -203,12 +223,12 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
 ## 10. GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&background=0d0c15&ring=7b2cbf&fire=9d4edd&currStreakNum=e0aaff&sideNums=e0aaff&sideLabels=e0aaff&dates=e0aaff&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bunny1089&show_icons=true&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunny1089&theme=tokyonight&background=0d0c15&ring=7b2cbf&fire=9d4edd&currStreakNum=e0aaff&sideNums=e0aaff&sideLabels=e0aaff&dates=e0aaff&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunny1089&layout=compact&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -216,7 +236,7 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
 ## 11. GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=username&theme=dracula&column=7&no-bg=true" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bunny1089&theme=dracula&column=7&no-bg=true" alt="GitHub Trophies" /></a>
 </p>
 
 ---
@@ -224,7 +244,7 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
 ## 12. Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&bg_color=0d0c15&color=9d4edd&line=7b2cbf&point=e0aaff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bunny1089&bg_color=0d0c15&color=9d4edd&line=7b2cbf&point=e0aaff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -232,7 +252,7 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
 ## 13. Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg" alt="Snake Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/Bunny1089/Bunny1089/output/github-contribution-grid-snake-dark.svg" alt="Snake Grid" width="100%" />
 </p>
 
 ---
@@ -242,17 +262,32 @@ VortexPay leverages C++ for its main execution pipeline and Rust for its critica
 ```yaml
 current_focus:
   learning:
-    - "Advanced Distributed Consensus Algorithms"
-    - "Geometric Deep Learning & Graph Neural Networks"
+    - "Data Structures & Algorithms"
+    - "System Design"
+    - "Machine Learning"
+    - "Generative AI"
+    - "RAG"
+    - "AI Agents"
+
   building:
-    - "An open-source high-performance vector index engine in Rust"
-    - "A developer tool for optimizing CUDA kernel performance"
+    - "GestureDrive AI"
+    - "NexusOS AI"
+    - "ResearchLens AI"
+    - "AI-powered applications"
+
   exploring:
-    - "Post-Quantum Cryptography implementations in distributed ledgers"
-    - "Mechanistic Interpretability of Large Language Models"
+    - "Agentic AI"
+    - "RAG architectures"
+    - "MCP"
+    - "Computer Vision"
+    - "Production AI Engineering"
+
   open_to:
-    - "Collaborating on cutting-edge open-source AI infra"
-    - "Advising early-stage tech startups on system architecture"
+    - "AI/ML Internships"
+    - "Software Engineering Internships"
+    - "Generative AI Opportunities"
+    - "AI Agent Projects"
+    - "Open Source Collaboration"
 ```
 
 ---
@@ -261,15 +296,15 @@ current_focus:
 
 <p align="center">
   <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Gmail-7209B7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-3F37C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-480CA8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-560BAD?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-3F37C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Bunny1089"><img src="https://img.shields.io/badge/GitHub-480CA8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-560BAD?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <i>"Build with purpose. Engineer with intent. Ship what matters."</i>
 </p>
 
 <p align="center">
