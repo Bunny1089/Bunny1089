@@ -131,13 +131,7 @@ ResearchLens AI acts as a dedicated document compiler and structural analyzer fo
     *   Debugged and optimized API routes for performance and security.
 *   **Skills:** `HTML` `CSS` `JavaScript` `SQL` `Web Development`
 
-### **Content Writer & SEO Intern** | **BrandVeda**
-*   **Description:** Researched, drafted, and optimized content targeting search engine rankings and developer engagement.
-*   **Scope of Work:**
-    *   Wrote high-quality articles on digital marketing, web analytics, and technical topics.
-    *   Conducted keyword research and implemented on-page SEO strategies to drive organic web traffic.
-    *   Analyzed article metrics to iterate on content formatting and clarity.
-*   **Skills:** `SEO` `Content Writing` `Digital Marketing` `Web Analytics`
+
 
 ### **UI/UX Design Intern** | **CodSoft**
 *   **Description:** Designed intuitive user interfaces and user experiences for mobile and web applications.
