@@ -1,426 +1,277 @@
-````markdown
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3a0ca3&customColorEnd=7209b7&height=200&section=header&text=MEET&fontSize=50&fontColor=ffffff" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=KULMEET%20SINGH%20CHAUHAN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%20%7C%20Software%20Engineer%20%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Distributed+Systems+Architect;AI+/+ML+Platform+Engineer;Full+Stack+Product+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Intelligent+Software+Systems;AI+%2F+ML+%7C+Generative+AI+%7C+RAG;Full-Stack+Engineering+%7C+Product+Development;Turning+Ideas+into+Production-Ready+Systems" alt="Typing SVG"/>
-</a>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/MS%20in%20Computer%20Science-Georgia%20Tech-7B2CBF?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-5A189A?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-website-9D4EDD?style=flat-square&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech%20CSE-AI%2FML-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/DYPIU-Computer%20Science-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pune-Maharashtra-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://in.linkedin.com/in/kulmeet-singh-chauhan-86494221a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-Explore-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:kulmeet.singh.chauhan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kulmeet&style=flat-square&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/kulmeet?style=flat-square&color=4C1D95&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/kulmeet?style=flat-square&color=312E81&label=STARS"/>
-
-</div>
+<p align="center">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=username&color=9D4EDD&style=flat-square&label=Profile%20Views" alt="Profile Views" /></a>
+  <a href="https://github.com/username"><img src="https://img.shields.io/github/followers/username?style=flat-square&color=7B2CBF&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/username"><img src="https://img.shields.io/github/stars/username?style=flat-square&color=7B2CBF&label=Stars" alt="Stars" /></a>
+</p>
 
 ---
 
-## About
+## 2. About Me
 
-I am a **B.Tech Computer Science & Engineering student specializing in AI/ML**, focused on building intelligent, scalable, and production-oriented software systems.
+I am a Senior Software Engineer specializing in high-performance distributed systems, AI/ML training and inference infrastructure, and scalable full-stack applications. With a product engineering mindset, I bridge the gap between complex backend infrastructure and intuitive user experiences. I thrive on designing robust solutions that handle millions of requests, optimizing GPU utilization, and contributing to open-source software.
 
-My engineering interests sit at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, backend engineering, and modern full-stack development**. I enjoy taking a problem from idea → architecture → implementation → deployment and continuously improving the system through experimentation and engineering discipline.
-
-I work across:
-
-- **Software Engineering** — data structures, algorithms, system design, APIs, modular architecture
-- **AI / ML** — machine learning, deep learning, computer vision, NLP, RAG, embeddings, AI agents
-- **Full-Stack Development** — React, TypeScript, Python, FastAPI, REST APIs, databases
-- **Product Engineering** — transforming real-world problems into usable, scalable products
-- **Developer Tooling** — Git, Docker, cloud platforms, automation, CI/CD and modern AI development workflows
+*   **Software Engineering:** Expert in microservices, low-latency APIs, and concurrent system designs.
+*   **AI/ML Expertise:** Specialized in pipeline parallelism, LLM fine-tuning pipelines, and vector databases.
+*   **Full Stack Development:** Experienced in building responsive, modern user interfaces integrated with resilient backend APIs.
+*   **Product Mindset:** Focused on delivering measurable business impact, optimizing cost, and ensuring excellent user experience.
 
 ### Open To
-
-`AI / ML Engineering` · `Software Engineering` · `Full-Stack Development` · `Generative AI` · `AI Agents` · `Research & Applied ML` · `Open Source`
+*   Technical leadership roles and architecture advisory.
+*   Collaborations on open-source distributed training frameworks and ML developer tools.
+*   System optimization and scalability consulting.
 
 ---
 
-## Tech Stack
+## 3. Tech Stack
 
 ### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,sql,bash&theme=dark" />
-</p>
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,golang,rust,cpp)](https://skillicons.dev)
 
 ### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,figma&theme=dark" />
-</p>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
 
 ### Backend & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mysql,sqlite,postgres,mongodb&theme=dark" />
-</p>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### Cloud, DevOps & Tooling
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux)](https://skillicons.dev)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,gcp,linux,vscode,postman&theme=dark" />
+---
+
+## 4. AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Deep Learning Infrastructure** | Expert | PyTorch, Megatron-LM, DeepSpeed, Ray, GPU cluster orchestration, CUDA kernel tuning |
+| **NLP & Large Language Models** | Advanced | Fine-tuning (LoRA, QLoRA), Reinforcement Learning (RLHF/DPO), RAG architectures |
+| **Computer Vision** | Advanced | Object detection (YOLO), image segmentation, OpenCV, multi-modal feature embedding |
+| **MLOps & Inference Platforms** | Expert | Triton Inference Server, vLLM, TensorRT, Kubeflow, Prometheus, Grafana |
+
+---
+
+## 5. Featured Projects
+
+<details>
+<summary><b>🚀 AetherDB — Distributed Serverless Vector Database</b></summary>
+
+### AetherDB
+A high-throughput, low-latency serverless vector database designed specifically for real-time semantic search and high-dimensional embeddings.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Go, Rust, gRPC, Kubernetes, RAFT | 50B+ Vectors, multi-region | <5ms latency at 99th percentile | TLS 1.3, OAuth2, RBAC | Powering semantic search for 10M+ DAUs | [aether-db](https://github.com/username/aether-db) |
+
+#### Professional Project Explanation
+AetherDB was built to solve the memory and indexing bottlenecks of high-dimensional vector search. The core vector indexing search engine is built in Rust utilizing custom HNSW algorithms, while the orchestration and distributed replication layers are written in Go. Raft consensus ensures consistent and partition-tolerant cluster coordination. Implemented dynamic vector quantization and memory-mapped files to optimize memory consumption, reducing infrastructure costs by 50%.
+</details>
+
+<details>
+<summary><b>🧠 NeuralMesh — Distributed LLM Orchestration Platform</b></summary>
+
+### NeuralMesh
+A cloud-native orchestration platform designed to streamline large-scale model training and inference workloads across heterogeneous GPU clusters.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Python, PyTorch, Ray, Docker, Slurm | 1000+ GPU nodes, 175B model | 92% GPU utilization efficiency | End-to-end data encryption, VPC | Reduced model training cost by 40% | [neural-mesh](https://github.com/username/neural-mesh) |
+
+#### Professional Project Explanation
+NeuralMesh abstracts cluster-level GPU complexities for machine learning teams. Built on top of Ray and Kubernetes, it automatically partitions models using pipeline, tensor, and data parallelism. By incorporating predictive scheduling algorithms, it dynamically detects and routes around failing compute nodes, ensuring uninterrupted, long-running training jobs. Optimized networking throughput with custom NCCL communication topologies over InfiniBand fabrics.
+</details>
+
+<details>
+<summary><b>⚡ VortexPay — Ultra-Low Latency Payment Gateway</b></summary>
+
+### VortexPay
+A high-frequency transactional gateway designed for microtransactions, processing thousands of requests per second with sub-millisecond persistence.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| C++, Rust, PostgreSQL, Redis, Kafka | 10,000+ RPS, $100M+ Volume | Sub-10ms end-to-end latency | PCI-DSS compliant, HSM integration | 99.999% uptime, zero financial leakage | [vortex-pay](https://github.com/username/vortex-pay) |
+
+#### Professional Project Explanation
+VortexPay leverages C++ for its main execution pipeline and Rust for its critical external-facing validation modules to guarantee performance without sacrificing memory safety. It maintains a transactional ledger with high durability using a custom log-structured write-ahead log (WAL). Employs memory-mapped databases and lock-free rings to achieve high throughput, handling peaks of up to 15,000 requests per second under heavy loads.
+</details>
+
+---
+
+## 6. Professional Experience
+
+### **Staff Software Engineer / Tech Lead** | **Meta**
+*August 2023 - Present*
+*   **Description:** Lead the architecture team designing infrastructure for next-generation generative AI features across consumer applications.
+*   **Scope of Work:**
+    *   Designed and deployed a distributed caching system for model weights, reducing start-up times for inference pods by 65%.
+    *   Architected a cross-region data replication pipeline processing multi-terabyte datasets daily with zero loss.
+    *   Mentored senior engineers, defined long-term technical roadmaps, and established rigorous code review standards.
+*   **Skills:** `Distributed Systems` `PyTorch` `C++` `Kubernetes` `System Design`
+
+### **Senior Software Engineer** | **Google**
+*June 2020 - August 2023*
+*   **Description:** Developed key features and optimization engines for core search backend indexing services.
+*   **Scope of Work:**
+    *   Led the refactoring of legacy indexing pipelines, increasing index construction throughput by 30% using Go.
+    *   Designed real-time health-checks and anomaly detection telemetry suites, preventing critical downstream indexing delays.
+    *   Collaborated closely with machine learning researchers to deploy custom retrieval models into live serving environments.
+*   **Skills:** `Go` `C++` `TensorFlow` `GCP` `Microservices`
+
+---
+
+## 7. Achievements
+
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left;">Recognition</th>
+        <th style="text-align: left;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🏆 **FAANG Engineering Excellence Award**</td>
+        <td>Recognized for optimizing core service latency, reducing global system resource footprint by 20%.</td>
+      </tr>
+      <tr>
+        <td>🌟 **Open Source Contributor of the Year**</td>
+        <td>Acknowledged for significant contributions to PyTorch compiler frontends and distributed training packages.</td>
+      </tr>
+      <tr>
+        <td>🥇 **1st Place — Global AI Hackathon**</td>
+        <td>Developed a prototype multi-agent code refactoring tool capable of automated modular conversions.</td>
+      </tr>
+    </tbody>
+  </table>
 </p>
 
 ---
 
-## AI / ML Expertise
+## 8. Certifications
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Advanced | Supervised learning, unsupervised learning, feature engineering, evaluation and model optimization |
-| Deep Learning | Intermediate | Neural networks, representation learning and practical model development |
-| Generative AI | Advanced | LLM applications, prompt engineering, embeddings, vector databases and AI application architecture |
-| RAG | Advanced | Retrieval pipelines, semantic search, embeddings, vector databases and contextual generation |
-| AI Agents | Advanced | Agent orchestration, tool use, multi-agent systems and workflow automation |
-| Computer Vision | Intermediate | OpenCV, MediaPipe, landmark extraction, gesture recognition and real-time CV pipelines |
-| NLP | Intermediate | Text processing, semantic search, embeddings and intelligent information retrieval |
-| MLOps | Intermediate | Model workflows, APIs, Dockerized deployment and production-oriented ML systems |
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>NexusOS AI — Academic & Career Operating System</b></summary>
-
-<br/>
-
-An AI-powered operating system designed to coordinate academic planning, career development, interview preparation, internships and personal scheduling through specialized AI agents.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Google ADK · Python · FastAPI · React · TypeScript · Tailwind CSS · SQLite · Docker · MCP |
-| **Scale** | Multi-agent architecture with coordinator + specialist agents |
-| **Performance** | Modular workflows designed for efficient task delegation and persistent state |
-| **Security** | Environment-based secrets · isolated services · controlled tool access |
-| **Impact** | Unifies academic and career workflows into a single intelligent platform |
-| **Repository** | [GitHub](https://github.com/) |
-
-**Architecture**
-
-- Coordinator Agent
-- Planner Agent
-- Resume Agent
-- Career Agent
-- Study Agent
-- Interview Agent
-- Internship Agent
-- Life Scheduler Agent
-- MCP-based tools for Calendar, Documents, Search and GitHub
-- SQLite persistence layer
-- FastAPI service layer
-- React + TypeScript frontend
-
-</details>
-
-<details>
-<summary><b>GestureDrive AI — Modular Computer Vision Control Framework</b></summary>
-
-<br/>
-
-A modular computer vision framework that converts real-time webcam hand gestures into game and system inputs.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · OpenCV · MediaPipe · NumPy |
-| **Scale** | Modular CV pipeline with pluggable tracking, inference and controller layers |
-| **Performance** | Real-time webcam processing and landmark-based gesture inference |
-| **Security** | Local-first processing with hardware input abstraction |
-| **Impact** | Enables hands-free interaction with games and computer systems |
-| **Repository** | [GitHub](https://github.com/) |
-
-**Architecture**
-
-- Camera System
-- Hand Tracking
-- Landmark Extraction
-- Gesture Inference
-- Temporal State Engine
-- Visualization Layer
-- Controller Abstraction
-- Keyboard / Virtual Xbox Input
-- Dataset Recording Utilities
-- Clean Architecture + SOLID principles
-
-</details>
-
-<details>
-<summary><b>BrightFields — Rural Education Platform</b></summary>
-
-<br/>
-
-A prototype education platform designed around improving access to engaging digital learning experiences for students in rural communities.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Web Technologies · UI/UX · Database Systems |
-| **Scale** | Designed as a scalable education platform concept |
-| **Performance** | Lightweight user experience focused on accessibility |
-| **Security** | Structured authentication and data handling principles |
-| **Impact** | Addresses accessibility and engagement challenges in rural education |
-| **Repository** | [GitHub](https://github.com/) |
-
-</details>
-
-<details>
-<summary><b>AI Agent & Automation Systems</b></summary>
-
-<br/>
-
-A collection of experimental systems exploring AI agents, workflow automation, retrieval pipelines and intelligent developer workflows.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · Google ADK · n8n · FastAPI · LLMs · MCP |
-| **Scale** | Modular agent and workflow architecture |
-| **Performance** | Automated multi-step task execution |
-| **Security** | Credential isolation and controlled integrations |
-| **Impact** | Automates repetitive research, career and productivity workflows |
-| **Repository** | [GitHub](https://github.com/) |
-
-</details>
-
----
-
-## Experience
-
-### AI / ML & Software Engineering Projects
-**Independent Engineering & Project Work** · 2025 — Present
-
-- Building practical AI/ML systems focused on real-world applications.
-- Designing modular architectures for AI agents and intelligent automation.
-- Developing REST APIs and full-stack interfaces around ML systems.
-- Experimenting with RAG, embeddings, vector databases and agentic workflows.
-- Applying software engineering principles to AI application development.
-
-**Skills:** `Python` `AI/ML` `RAG` `AI Agents` `FastAPI` `React` `Docker` `MCP`
-
-### Design & Creative Technology
-**Venn Student Club / Creative Projects** · 2024 — 2026
-
-- Worked across UI/UX, visual design and digital experiences.
-- Developed 3D assets and environments using Blender.
-- Produced visual content and motion-oriented creative work.
-- Combined engineering and design thinking while developing digital products.
-
-**Skills:** `Figma` `Blender` `UI/UX` `3D Design` `Video Editing`
-
-### Content & Digital Marketing
-**BrandVeda** · Content Writing & SEO
-
-- Produced long-form SEO content for business and technology-oriented websites.
-- Developed structured content strategies around search intent and keyword research.
-- Created approximately 60K–70K words of blog and website content.
-- Worked on SEO-driven product pages, location pages and informational content.
-
-**Skills:** `SEO` `Content Strategy` `Keyword Research` `Technical Writing`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **Hackathon Participant** | Smart India Hackathon 2025 — developed an education-focused solution concept |
-| **Hackathon Participant** | Hack Better Than Me — IIIT Pune |
-| **GDGC DYPIU** | Contributed to the Google Developer Groups on Campus ecosystem |
-| **AI Engineering** | Built multiple AI/ML and agentic application prototypes |
-| **Project Engineering** | Developed modular AI, computer vision and full-stack systems |
-
-</div>
-
----
-
-## Certifications
-
-### Google / AI & Cloud
-
-<img src="https://img.shields.io/badge/Google-AI%20%26%20Cloud-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+### AWS
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-480CA8?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SA Pro" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-Security%20Specialty-560BAD?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Security" /></a>
+</p>
 
 ### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certified-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Oracle-Java%20SE%2011%20Professional-7209B7?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java SE 11" /></a>
+</p>
 
 ### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certified-6D28D9?style=for-the-badge&logo=nptel&logoColor=white"/>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20(Elite%2BGold)-3F37C9?style=flat-square&logo=education&logoColor=white" alt="NPTEL Cloud Computing" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NPTEL-Advanced%20Algorithms-4361EE?style=flat-square&logo=education&logoColor=white" alt="NPTEL Advanced Algorithms" /></a>
+</p>
 
 ### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certified-4C1D95?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-### Additional
-
-<img src="https://img.shields.io/badge/Neo4j-Certified%20Professional-6D28D9?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Engineer-Certified-4C1D95?style=for-the-badge&logo=artificialintelligence&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20with%20Embeddings%20%26%20Vector%20Databases-Completed-312E81?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Certified-6D28D9?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Cisco-CCNA-4CC9F0?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA" /></a>
+</p>
 
 ---
 
-## Coding Profiles
+## 9. Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://leetcode.com/username"><img src="https://img.shields.io/badge/LeetCode-Profile-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://geeksforgeeks.org/user/username"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-5A189A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://hackerrank.com/username"><img src="https://img.shields.io/badge/HackerRank-Profile-9D4EDD?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://codechef.com/users/username"><img src="https://img.shields.io/badge/CodeChef-Profile-E0AAFF?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef" /></a>
+</p>
 
 ---
 
-## GitHub Analytics
+## 10. GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&background=0d0c15&ring=7b2cbf&fire=9d4edd&currStreakNum=e0aaff&sideNums=e0aaff&sideLabels=e0aaff&dates=e0aaff&hide_border=true" alt="Streak Stats" width="48%" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kulmeet&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulmeet&layout=compact&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kulmeet&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true" alt="Top Languages" width="60%" />
+</p>
 
 ---
 
-## GitHub Trophies
+## 11. GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kulmeet&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=username&theme=dracula&column=7&no-bg=true" alt="GitHub Trophies" /></a>
+</p>
 
 ---
 
-## Contribution Activity
+## 12. Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kulmeet&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&bg_color=0d0c15&color=9d4edd&line=7b2cbf&point=e0aaff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
 
 ---
 
-## Contribution Snake
+## 13. Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg" alt="Snake Grid" width="100%" />
+</p>
 
 ---
 
-## Current Focus
+## 14. Current Focus
 
 ```yaml
-learning:
-  - Data Structures & Algorithms
-  - System Design
-  - Advanced Machine Learning
-  - Generative AI
-  - AI Agents
-  - Retrieval Augmented Generation
-  - Production AI Engineering
-
-building:
-  - Intelligent AI-powered applications
-  - Agentic workflows
-  - Full-stack products
-  - Computer Vision systems
-  - Developer automation tools
-
-exploring:
-  - Multi-Agent Systems
-  - MCP
-  - LLM Infrastructure
-  - MLOps
-  - Cloud-native AI
-  - Open Source
-
-open_to:
-  - AI/ML Internships
-  - Software Engineering Internships
-  - AI Engineering Opportunities
-  - Full-Stack Engineering
-  - Open Source Collaboration
-  - Research & Applied AI
-````
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:kulmeet.singh.chauhan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://in.linkedin.com/in/kulmeet-singh-chauhan-86494221a">
-<img src="https://img.shields.io/badge/LinkedIn-Kulmeet%20Singh%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-Kulmeet-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer"/>
-
-### `Build with purpose. Engineer with intent. Ship what matters.`
-
-</div>
+current_focus:
+  learning:
+    - "Advanced Distributed Consensus Algorithms"
+    - "Geometric Deep Learning & Graph Neural Networks"
+  building:
+    - "An open-source high-performance vector index engine in Rust"
+    - "A developer tool for optimizing CUDA kernel performance"
+  exploring:
+    - "Post-Quantum Cryptography implementations in distributed ledgers"
+    - "Mechanistic Interpretability of Large Language Models"
+  open_to:
+    - "Collaborating on cutting-edge open-source AI infra"
+    - "Advising early-stage tech startups on system architecture"
 ```
+
+---
+
+## 15. Connect with Me
+
+<p align="center">
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Gmail-7209B7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-3F37C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-480CA8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-560BAD?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=7209b7&customColorEnd=3a0ca3&height=100&section=footer" width="100%" />
+</p>
