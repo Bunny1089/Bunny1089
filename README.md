@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3a0ca3&customColorEnd=7209b7&height=200&section=header&text=KULMEET&fontSize=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3a0ca3&customColorEnd=7209b7&height=200&section=header&text=KULMEET&fontSize=50&fontColor=ffffff&textAnimation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@
 
 I am a B.Tech Computer Science & Engineering student specializing in AI/ML. My focus is on building practical AI-powered applications, intelligent software systems, and full-stack products. I blend software engineering principles with state-of-the-art machine learning techniques to solve real-world problems.
 
-*   **Artificial Intelligence & Machine Learning:** Focused on practical application design, deep learning pipelines, and model evaluation.
-*   **Generative AI & RAG:** Passionate about building context-aware retrieval systems and AI agent workflows.
-*   **Full-Stack & Product Engineering:** Experienced in building responsive interfaces with React, FastAPI, and robust data schemas.
-*   **Software Engineering Core:** Solid foundations in DSA, database design, system flows, and modular programming.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="20" /> **Artificial Intelligence & Machine Learning:** Focused on practical application design, deep learning pipelines, and model evaluation.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> **Generative AI & RAG:** Passionate about building context-aware retrieval systems and AI agent workflows.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" /> **Full-Stack & Product Engineering:** Experienced in building responsive interfaces with React, FastAPI, and robust data schemas.
+*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="20" /> **Software Engineering Core:** Solid foundations in DSA, database design, system flows, and modular programming.
 
 ### Open To
 *   AI / ML internships
@@ -55,8 +55,8 @@ I am a B.Tech Computer Science & Engineering student specializing in AI/ML. My f
 ### Backend & Databases
 [![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,sqlite,mongodb,postgres)](https://skillicons.dev)
 
-### Cloud, DevOps & Tooling
-[![Cloud & DevOps](https://skillicons.dev/icons?i=git,github,docker,linux,gcp,vscode,postman,pytorch,tensorflow,opencv)](https://skillicons.dev)
+### AI Tools, DevOps & Automation
+[![AI Tools & DevOps](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,pytorch,tensorflow,opencv)](https://skillicons.dev) [![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
 
 ---
 
@@ -78,7 +78,7 @@ I am a B.Tech Computer Science & Engineering student specializing in AI/ML. My f
 ## 5. Featured Projects
 
 <details>
-<summary><b>🚀 GestureDrive AI — Hand Gesture System Input Control</b></summary>
+<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="20" /> GestureDrive AI — Hand Gesture System Input Control</b></summary>
 
 ### GestureDrive AI
 A modular computer vision framework that converts real-time webcam hand gestures into game and system inputs.
@@ -92,7 +92,7 @@ GestureDrive AI is built as a highly modular pipeline that separates hand tracki
 </details>
 
 <details>
-<summary><b>🧠 NexusOS AI — Multi-Agent Academic & Career Scheduler</b></summary>
+<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="20" /> NexusOS AI — Multi-Agent Academic & Career Scheduler</b></summary>
 
 ### NexusOS AI
 An AI-powered multi-agent system designed to coordinate academic planning, career development, interview preparation, internships, and personal scheduling.
@@ -106,7 +106,7 @@ NexusOS AI coordinates several specialized agents (Planner, Resume, Career, Stud
 </details>
 
 <details>
-<summary><b>⚡ ResearchLens AI — Document Compilation & Parsing Pipeline</b></summary>
+<summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass" width="20" /> ResearchLens AI — Document Compilation & Parsing Pipeline</b></summary>
 
 ### ResearchLens AI
 An automated compilation and parsing pipeline designed to structure technical study handbooks and research materials into indexed, print-ready documents.
