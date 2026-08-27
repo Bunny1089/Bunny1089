@@ -215,23 +215,7 @@ ResearchLens AI acts as a dedicated document compiler and structural analyzer fo
 
 ---
 
-## 11. GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bunny1089&theme=dracula&column=7&no-bg=true" alt="GitHub Trophies" /></a>
-</p>
-
----
-
-## 12. Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bunny1089&bg_color=0d0c15&color=9d4edd&line=7b2cbf&point=e0aaff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-## 13. Contribution Snake
+## 11. Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bunny1089/Bunny1089/output/github-contribution-grid-snake-dark.svg" alt="Snake Grid" width="100%" />
@@ -239,7 +223,7 @@ ResearchLens AI acts as a dedicated document compiler and structural analyzer fo
 
 ---
 
-## 14. Current Focus
+## 12. Current Focus
 
 ```yaml
 current_focus:
@@ -274,7 +258,7 @@ current_focus:
 
 ---
 
-## 15. Connect with Me
+## 13. Connect with Me
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gmail-7209B7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
