@@ -210,7 +210,7 @@ ResearchLens AI acts as a dedicated document compiler and structural analyzer fo
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bunny1089&layout=compact&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="top_languages.svg" alt="Top Languages" width="60%" />
 </p>
 
 ---
