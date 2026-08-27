@@ -205,12 +205,12 @@ ResearchLens AI acts as a dedicated document compiler and structural analyzer fo
 ## 10. GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bunny1089&show_icons=true&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Bunny1089&show_icons=true&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Bunny1089&theme=tokyonight&background=0d0c15&ring=7b2cbf&fire=9d4edd&currStreakNum=e0aaff&sideNums=e0aaff&sideLabels=e0aaff&dates=e0aaff&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunny1089&layout=compact&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bunny1089&layout=compact&title_color=9d4edd&icon_color=7b2cbf&text_color=e0aaff&bg_color=0d0c15&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
